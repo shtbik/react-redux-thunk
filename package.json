@@ -4,6 +4,7 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "http://shtbik.github.io/react-redux-thunk",
   "dependencies": {
     "prop-types": "15.7.2",
     "react": "16.12.0",
