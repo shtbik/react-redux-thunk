@@ -1,1 +1,1 @@
-### Project of examples working with data-management with using different libraries and ways.
+### Example of working with data-management with using react/redux/redux-thunk/redux-pack libraries.
